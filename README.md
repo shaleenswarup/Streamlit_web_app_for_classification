@@ -4,5 +4,5 @@ Streamlit Interface for Logistic Regression, SVM and Random Forrest
 ## How to run?
 
 ```
-streamlit run st_runner.py apps
+streamlit run app.py apps
 ```
